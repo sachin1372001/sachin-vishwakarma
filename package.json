@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {}
+}1) Element CashFlowsFromUsedInOperations: Specified Value=122092724: Expected Value=122092069:   must be sum of [ProfitBeforeExtraordinaryItemsAndTax X 1.0, AdjustmentsForReconcileProfitLoss X 1.0] : : ContextID = D2020
+
+
+NOTE: In case warning messages are displayed, these are in respect of non- compliance to HTML guidelines.
+You should convert the instance documents into pdf through the validation tool and verify the contents of the same.
+However the warning messages will not disallow the pre-scrutiny through validation tool.
